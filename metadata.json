@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกรายรับ-รายจ่าย (Expense Tracker)",
+  "description": "เว็บแอปพลิเคชันจัดการรายรับรายจ่าย บันทึกธุรกรรม สรุปผลรายเดือน และวิเคราะห์ข้อมูลผ่านกราฟ พร้อมเชื่อมต่อ Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
